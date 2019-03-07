@@ -1,0 +1,43 @@
+.header{
+    background-color: #ccc;
+    color: #ffff;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.consigne{
+    margin-top: 15px;
+    font-size: 13px;
+    font-family: Georgia, serif;
+}
+    
+#number{
+    color: fuchsia;
+}
+#message{
+    font-size: 14px;
+}
+.footer{
+    text-align:center;
+    margin-top: 95px;
+    font-family: Helvetica, sans-serif;
+    background-color: rgba(209, 208, 130, 0.884);
+    color: #ffff;
+    padding: 50px 70px;
+}
+
+.footer h3{
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-display: unset;
+}
+
+.footer p{
+    font-size: 17px;
+}
+
+.footer h4{
+    color: rgb(39, 135, 103);
+    font-size: 19px;
+}
